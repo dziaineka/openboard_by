@@ -121,4 +121,4 @@ for word in dictionary.dic.words:
 print('')
 
 for word in sorted(result):
-    print(word)
+    print(f"word={word},f=100,flags=,originalFreq=100")
